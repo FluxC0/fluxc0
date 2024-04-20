@@ -17,12 +17,4 @@ I am a novice programmer that loves python. trying to dabble a bit in other thin
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fluxc0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="my github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fluxc=github-readme-stats&theme=buefy" />
-</a>
-
-<br />
-<br />
+bye :)
