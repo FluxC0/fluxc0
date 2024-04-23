@@ -7,6 +7,7 @@ I am a novice programmer that loves python. trying to dabble a bit in other thin
 **What do i do?**
 
 🐍 Big fan of python, currently learning more and more!
+🦋 Starting on Dart and Flutter
 
 
 
