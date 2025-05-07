@@ -1,18 +1,8 @@
 
 
-<br />
-
-I am a novice programmer that loves python. trying to dabble a bit in other things, but im pretty okay at python..
-
-**What do i do?**
-
-🐍 Big fan of python, currently learning more and more!
-<br>
-🦋 Starting on Dart and Flutter
 
 
-
-<code><img height="20" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
+<code><img height="20" alt="lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
 
 
 
