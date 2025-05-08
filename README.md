@@ -1,12 +1,3 @@
 
 
 
-
-<code><img height="20" alt="lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
-
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fluxc0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="my github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluxc0&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-bye :)
